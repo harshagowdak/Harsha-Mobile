@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation">
+  <test name="mobileWorld">
+    <classes>
+      <class name="mobileWorld.Search"/>
+      <class name="mobileWorld.Login"/>
+       <class name="mobileWorld.Launch"/>
+      <class name="mobileWorld.contact"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
